@@ -18,7 +18,7 @@ Our code and trained models will be released immediately upon acceptance.
 
 To organize our benchmarks for medical anomaly detection consistently for fair comparison, please follow the [guidance](https://github.com/caiyu6666/DDAD-ASR/tree/main/data).
 
-If you hope to access the well-organized benchmarks directly, please email [Yu Cai](yu.cai@connect.ust.hk).
+If you hope to access the well-organized benchmarks directly, please email [Yu Cai](mailto:yu.cai@connect.ust.hk).
 
 
 
