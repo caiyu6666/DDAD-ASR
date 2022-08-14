@@ -41,7 +41,7 @@ The `data.json` is a dictionary that storing the data repartition information. A
 ### RSNA dataset and VinBigData dataset
 
 1. Download the datasets from these links: [RSNA](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge), [VinBigData](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection).
-2. Excute `./data/preprocess_cxr.py` to preprocess the two datasets, respectively. (As labels of testing set of the chanllenge are not available, we only utilize their training set to build our benchmark). Note that `in_dir` and  `out_dir`  should be modify to your corresponding path. The output files should be `*.png`.
+2. Excute `./data/preprocess_cxr.py` to preprocess the two datasets, respectively. (As labels of testing set of the challenge are not available, we only utilize their training set to build our benchmark). Note that `in_dir` and  `out_dir`  should be modify to your corresponding path. The output files should be `*.png`.
 3. Place files as shown in the aforementioned file structure tree.
 
 
