@@ -1,7 +1,7 @@
 ## DDAD-ASR
 
 This is the repository of our paper:
-> **Dual-distribution discrepancy with self-supervised refinement for anomaly detection in medical images** <br> [Yu Cai](https://caiyu6666.github.io/), [Hao Chen](https://cse.hkust.edu.hk/~jhc/), [Xin Yang](https://sites.google.com/view/xinyang/home), [Yu Zhou](https://www.vlrlab.net/~yuzhou), [Kwang-Ting Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). <br>
+> **[Dual-distribution discrepancy with self-supervised refinement for anomaly detection in medical images](https://arxiv.org/abs/2210.04227)** <br> [Yu Cai](https://caiyu6666.github.io/), [Hao Chen](https://cse.hkust.edu.hk/~jhc/), [Xin Yang](https://sites.google.com/view/xinyang/home), [Yu Zhou](https://www.vlrlab.net/~yuzhou), [Kwang-Ting Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). <br>
 
 
 
