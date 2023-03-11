@@ -1,0 +1,29 @@
+Exp:
+  out_dir: "output/AE/lag/"
+  gpu: 5
+
+Model:
+  network: "AE"  # AE, AE-U, MemAE
+  mp: 1  # multiplier that controls the capacity of AE
+  ls: 16  # the output size of encoder
+  mem_dim: Null
+  shrink_thres: Null
+
+Data:
+  dataset: "lag"  # rsna, vin
+  img_size: 64
+  extra_data: 1500  # unlabeled data for module A
+  ar: 0.6  # anomaly rate in unlabeled data for module A
+
+Solver:
+  bs: 64
+  lr: 5.0e-4
+  weight_decay: 0
+  num_epoch: 250
+
+RefineSolver:
+  bs: 8
+  lr: 1.0e-4
+  weight_decay: 1.0e-4
+  num_epoch: 100
+  grad_clip: Null

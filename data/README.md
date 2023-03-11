@@ -22,19 +22,19 @@ After preprocessing, all the benchmarks should have the same file structure as t
 
 The `data.json` is a dictionary that storing the data repartition information. All our `data.json` files have the same structure as the following: 
 
-```json
+```python
 {
   "train": {
-    "0": ["*.png", ], // The known normal images for one-class training
+    "0": ["*.png", ], # The known normal images for one-class training
     "unlabeled": {
-          "0": ["*.png", ], // normal images used to build the unlabeled dataset
-    	  "1": ["*.png", ]  // abnormal images used to build the unlabeled dataset
+          "0": ["*.png", ], # normal images used to build the unlabeled dataset
+    	  "1": ["*.png", ]  # abnormal images used to build the unlabeled dataset
     }
   },
   
   "test": {
-  	"0": ["*.png", ],  // normal testing images
-  	"1": ["*.png", ]  // abnormal testing images
+  	"0": ["*.png", ],  # normal testing images
+  	"1": ["*.png", ]  # abnormal testing images
   }
 }
 ```

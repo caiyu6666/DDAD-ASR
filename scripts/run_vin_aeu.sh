@@ -1,0 +1,9 @@
+python main.py --config cfgs/Vin_AEU.yaml --mode a;
+python main.py --config cfgs/Vin_AEU.yaml --mode a;
+python main.py --config cfgs/Vin_AEU.yaml --mode a;
+python main.py --config cfgs/Vin_AEU.yaml --mode b;
+python main.py --config cfgs/Vin_AEU.yaml --mode b;
+python main.py --config cfgs/Vin_AEU.yaml --mode b;
+python main.py --config cfgs/Vin_AEU.yaml --mode eval;
+python main.py --config cfgs/Vin_AEU.yaml --mode r;
+python main.py --config cfgs/Vin_AEU.yaml --mode eval_r;
