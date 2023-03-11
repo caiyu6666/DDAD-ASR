@@ -11,7 +11,9 @@
 
 <p align="center"><img width=95% src="./doc/imgs/vis.png"></p>
 
-From top to bottom: original image, $\mathcal{A}_{rec}$, DDAD-$\mathcal{A}_{intra}$, DDAD-$\mathcal{A}_{inter}$, DDAD-$\mathcal{R}_{dual}$.
+From top to bottom: original image, ![](http://latex.codecogs.com/svg.latex?\mathcal{A}_{rec}), DDAD-![](http://latex.codecogs.com/svg.latex?\mathcal{A}_{intra}), DDAD-![](http://latex.codecogs.com/svg.latex?\mathcal{A}_{inter}), DDAD-![](http://latex.codecogs.com/svg.latex?\mathcal{R}_{dual}).
+
+
 
 
 
@@ -20,7 +22,6 @@ From top to bottom: original image, $\mathcal{A}_{rec}$, DDAD-$\mathcal{A}_{intr
 ### Option 1
 
 Download the well-processed Med-AD benchmark from: [Google Drive](https://drive.google.com/file/d/1ijdaVBNdkYP4h0ClYFYTq9fN1eHoOSa6/view?usp=sharing) | [OneDrive](https://hkustconnect-my.sharepoint.com/:u:/g/personal/ycaibt_connect_ust_hk/EdCbKrjjRMlKi-1AotcAfkoB_jmbTQ2gnQChltgh7l8xVQ?e=t17t2S)
-
 (The benchmark is organized using 4 public datasets, and should be **only applied for academic research**.)
 
 
@@ -56,7 +57,6 @@ pip install tqdm
 ## Train and Evaluate
 
 All scripts are available in `scripts/`, and configuration files are in `cfgs/`.
-
 Train and evaluate the method on RSNA dataset using AE as the backbone: `./scripts/run_rsna_ae.sh`:
 
 ```python
