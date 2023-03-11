@@ -116,7 +116,6 @@ We really appreciate these wonderful open-source codes and datasets!
 ### Codes
 
 1. https://github.com/dbbbbm/UAE
-
 2. https://github.com/donggong1/memae-anomaly-detection
 
 ### Datasets
