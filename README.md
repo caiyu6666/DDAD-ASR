@@ -129,7 +129,7 @@ We really appreciate these wonderful open-source codes and datasets!
 
 ## Citation
 
-If this work is helpful for you, please cite out papers:
+If this work is helpful for you, please cite our papers:
 
 ```
 @article{cai2022dualdistribution,
