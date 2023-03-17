@@ -3,9 +3,10 @@
   <p align="center">
     Yu Cai, Hao Chen, Xin Yang, Yu Zhou, Kwang-Ting Cheng
   </p>
-  <h3 align="center"><a href="https://arxiv.org/abs/2210.04227">Paper</a>
+  <h3 align="center"><a href="https://doi.org/10.1016/j.media.2023.102794">Paper</a>
   <div align="center"></div>
 </p>
+
 
 ## Visualization on Med-AD
 
