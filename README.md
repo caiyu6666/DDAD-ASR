@@ -133,11 +133,15 @@ We really appreciate these wonderful open-source codes and datasets!
 If this work is helpful for you, please cite our papers:
 
 ```
-@article{cai2022dualdistribution,
-  title={Dual-distribution discrepancy with self-supervised refinement for anomaly detection in medical images},
-  author={Cai, Yu and Chen, Hao and Yang, Xin and Zhou, Yu and Cheng, Kwang-Ting},
-  journal={arXiv preprint arXiv:2210.04227},
-  year={2022}
+@article{CAI2023102794,
+title = {Dual-distribution discrepancy with self-supervised refinement for anomaly detection in medical images},
+journal = {Medical Image Analysis},
+volume = {86},
+pages = {102794},
+year = {2023},
+issn = {1361-8415},
+doi = {https://doi.org/10.1016/j.media.2023.102794},
+author = {Yu Cai and Hao Chen and Xin Yang and Yu Zhou and Kwang-Ting Cheng},
 }
 
 @inproceedings{cai2022dual,
